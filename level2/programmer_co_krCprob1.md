@@ -24,6 +24,7 @@ int main() {
 	printf("인자값 5: %d\n", solution(5));
 	printf("인자값 100: %d\n", solution(100));
 }
+
 실행결과
 <hr>
 인자값 3: 2
