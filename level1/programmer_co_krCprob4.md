@@ -26,10 +26,12 @@ int solution(int num) {
 	printf("값을 확인하세요.");
 	return 0;
 }
+
 int main() {
 	printf("인자값 11: %d\n", solution(11));
 	printf("인자값 626331: %d\n", solution(626331));
 }
+
 실행결과
 <hr>
 인자값 11: 14
