@@ -31,6 +31,7 @@ int main() {
 	printf("인자값 3: %s\n", solution(3));
 	printf("인자값 100: %s\n", solution(10000));
 }
+
 실행결과
 <hr>
 인자값 3: 수박수
