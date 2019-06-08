@@ -15,6 +15,7 @@ int main(void) {
 	}
 	return 0;
 }
+
 실행결과
 <hr>
 5 3
